@@ -1,0 +1,155 @@
+body{
+    width: 60%;
+    margin: auto;
+    padding: auto;
+}
+
+header{
+    background-color: white;
+}
+
+
+.logohead{
+    font-size: 1.3rem;
+    gap: 5rem;
+    font-size: 1.9rem;
+    display: flex;
+    font-weight: bolder;
+    border-bottom: 2px solid rgba(0, 0, 0,0.5);
+    
+}
+
+
+/* 
+here i add img editing */
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.bgim{
+    
+    width: 906px;
+    height: 300px;
+}
+.bgimg{
+    
+}
+
+
+/* here i edit Table */
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+table{
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid black;
+   
+    
+    padding-left: 2.03rem;
+    padding-right: 2.07rem;
+}
+
+
+
+
+/* here i edit another section icon */
+
+
+.icon{
+    display: flex;
+    text-align: center;   
+}
+
+.icon{
+    height: 100px;
+    font-size: 19px;
+}
+.icon1,.icon2,.icon3,.icon4{
+    padding: 0rem 3.6rem;
+    color: white;
+    padding-top: 2rem;
+}
+.icon1{
+    background-color: rgb(55, 149, 50);
+   
+
+}
+.icon2{
+    background-color:rgb(40, 134, 42);
+
+}
+.icon3{
+    background-color: rgb(32, 114, 32);
+
+}
+.icon4{
+    background-color: rgb(27, 100, 28);
+}
+
+
+
+/* here i add main editing */
+
+
+.content{
+    padding-top: 1rem;
+    gap: 20px;
+    display: flex ;
+    font-size: 1.3rem;
+}
+
+.div1, .div3{
+    width: 70%;
+}
+
+.cont{
+   color: white;
+    background-color: green;
+    padding: 0.5rem;
+}
+
+.im{
+    width: 60px;
+    height: 60px;
+    padding-top: 1rem;
+}
+
+
+.childdiv{
+    display: flex;
+}
+
+h4{
+    background-color: green;
+    padding: 0.7rem;
+}
+
+.addmission{
+    padding-top: 1rem;
+}
+.link{
+    color: green;
+    font-weight: bolder;
+    padding-top: 1rem;
+}
+
+.dov{
+    color: white;
+}
+.im{
+    padding: 1rem;
+}
+
+/* here i did editing in footer */
+
+footer{
+    background-color: green;
+    padding: 0.7rem;
+}
